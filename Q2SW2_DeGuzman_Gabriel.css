@@ -1,0 +1,29 @@
+img{
+	border-style: double;
+	border-color: yellow;
+	float: right;
+
+}
+table{
+	border-style: solid;
+	border-color: yellow;
+	border-width: 5px;
+}
+h1{
+	font-family: ;
+}
+ul{
+	font-family: Serif;
+}
+body{
+	margin-right: 50px;
+	margin-top: 50px;
+}
+.Div2{
+	background-color: #FF0000;
+	padding: 2px 12px 2px;
+}
+.DIv1{
+	background-color: #FF0000;
+	padding: 10px 12px 10px;
+}
